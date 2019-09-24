@@ -1,0 +1,14 @@
+{
+  "name": "changelog-vlinks",
+  "version": "0.0.1",
+  "description": "Ferramenta para gerar links de releases do arquivo changelog",
+  "main": "lib/index.js",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "semver": "^6.3.0"
+  },
+  "repository": "https://github.com/guesant/changelog-vlink.git",
+  "author": "Gabriel Rodrigues <jipacoding@gmail.com>",
+  "license": "MIT"
+}
